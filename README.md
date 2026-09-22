@@ -4,4 +4,5 @@ Warzone UA is a Ukrainian-speaking community of players dedicated to the Call of
 
 # Links:
 [Warzone UA Discord Server](https://discord.com/invite/6398ZFHvwh)  
-[Call of Duty: Warzone Website](https://www.warzone.org.ua/)
+[Warzone UA](https://sukhomudrenko.github.io/warzone-ua/dist/index.html)
+
